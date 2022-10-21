@@ -1,1 +1,2 @@
-# Python_MachineLearning
+學習深度學習
+,我要開發超強AI
